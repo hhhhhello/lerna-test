@@ -1,5 +1,5 @@
 const sayHello = () => {
-    console.log('hello a')
+    console.log('hello aaa')
 }
 
 export default sayHello
